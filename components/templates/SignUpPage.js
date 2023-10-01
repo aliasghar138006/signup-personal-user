@@ -1,5 +1,5 @@
 import { useState } from "react";
-import User from "../../public/icons/user";
+import User from "../../public/icons/User";
 import Eye from "../../public/icons/Eye";
 import Closeeye from "../../public/icons/Closeeye";
 import { toast } from "react-toastify";
